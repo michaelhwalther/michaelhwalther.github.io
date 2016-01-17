@@ -1,0 +1,15 @@
+# Site settings
+title: Useful in a Digital Age
+email: michael.h.walther (at) gmail
+description: > # this means to ignore newlines until "baseurl:"
+  A collection and toolbox, ready-to-use, to get useful things done in a Digital Age.
+  Also, unfinished thoughts, discarded ideas or things that didn't work.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.mmwalther.name" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  michaelhwalther
+linkedin_username:  miwalther
+xing_username:  Michael_Walther7
+
+# Build settings
+markdown: kramdown
