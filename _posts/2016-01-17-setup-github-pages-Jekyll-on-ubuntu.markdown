@@ -2,7 +2,7 @@
 layout: post
 title:  "Setup github-pages / Jekyll on a Ubuntu"
 date:   2016-01-17 16:13:34
-categories: ubuntu blog
+tags: ubuntu blog
 ---
 
 ## Setup Prerequisites

@@ -2,7 +2,7 @@
 layout: post
 title:  "Keeping a github-pages-based blog on current technology on Ubuntu"
 date:   2018-05-10 20:44:00
-categories: ubuntu blog
+tags: ubuntu blog
 ---
 
 ## The task
