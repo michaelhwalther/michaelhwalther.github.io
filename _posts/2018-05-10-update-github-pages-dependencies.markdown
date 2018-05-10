@@ -25,7 +25,8 @@ ruby-based... hm.
 
 ### Reminder of the basics
 
-Instead of repeating the steps, please refer to the prior post about the [initial setup]({{ "/ubuntu/blog/2016/01/17/setup-github-pages-Jekyll-on-ubuntu.html" | absolute_url }}).
+Instead of repeating the steps, please refer to the prior post
+about the [initial setup]({% post_url 2016-01-17-setup-github-pages-Jekyll-on-ubuntu%}).
 
 ### Update dependencies
 
