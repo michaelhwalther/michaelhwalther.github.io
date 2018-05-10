@@ -7,7 +7,7 @@ categories: ubuntu blog
 
 ## Setup Prerequisites
 
-###The basics
+### The basics
 
 If not already present, check that the system-level infrastructure is present:
 
