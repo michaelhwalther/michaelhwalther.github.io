@@ -1,2 +1,2 @@
 # michaelhwalther.github.io
-Public blog
+Public blog: http://blog.mmwalther.name
